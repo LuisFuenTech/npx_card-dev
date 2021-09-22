@@ -26,4 +26,4 @@ Inspired on [this](https://github.com/anmol098/npx_card).
 
 ### LICENSE
 
-[MIT]()
+[MIT](https://github.com/LuisFuenTech/npx_card-dev/blob/master/LICENSE)
