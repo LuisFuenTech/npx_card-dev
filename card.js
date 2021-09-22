@@ -91,7 +91,7 @@ const me = boxen(
     `${data.labelCard}  ${data.npx}`,
     ``,
     `${chalk.bold("           * I love learning new things.")}`,
-    `${chalk.bold("           * My mind is open the new ideas.")}`,
+    `${chalk.bold("           * My mind is opened to new ideas.")}`,
     `${chalk.bold("           * Every challenge is a gain.")}`
   ].join("\n"),
   {
